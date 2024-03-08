@@ -1,3 +1,4 @@
+#Artificial Intelligence Class Project
 The necessary Python Libraries needed to run this program are ScikitLearn and pandas.
 
 To run this program, go into an editor and copy the path of the "train" excel file inside the folder and past it onto where df = plane.read_csv(r'PASTE HERE'). Remove the quotation marks and leave the apostrophes.
